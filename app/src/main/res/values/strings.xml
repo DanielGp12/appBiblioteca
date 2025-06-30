@@ -1,15 +1,8 @@
 <resources>
-    <!-- CREDENCIALES-->
-    <string name="app_name">ProyectoBiblioteca</string>
-    <string name="Desarrollador">Daniel Gonzales Palma</string>
-    <string name="version">Version 1.0.0</string>
-    <string name="title_activity_login">LoginActivity</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="welcome">"Welcome !"</string>
-    <string name="invalid_username">Not a valid username</string>
-    <string name="invalid_password">Password must be >5 characters</string>
-    <string name="login_failed">"Login failed"</string>
+    <string name="imagen_desc">Descripción de la imagen</string>
+    <string name="inicio_sesion">INICIO DE SESION</string>
+    <string name="usuario_hint">Introduce tu usuario</string>
+    <string name="clave_hint">Introduce tu clave</string>
+    <string name="clave_label">Clave</string>
+    <string name="portada_libro">Portada del libro</string>
 </resources>
